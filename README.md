@@ -12,3 +12,8 @@ Code for the map can be found [HERE](Patterns_Hexmap.R) - built mostly with tmap
    <p align="center">
   <img width="600" height="850" src="retailpatterns_hexmap.gif">
 </p>
+
+## Acknowledgements
+
+* Thanks to SafeGraph for provision of their data through their COVID-19 Data Consortium. 
+* Thanks also to Robin Lovelace and Jakub Nowosad, their book "Geocomputation in R" has proven invaluable for everything 'spatial' in R
