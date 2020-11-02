@@ -16,4 +16,4 @@ Code for the map can be found [HERE](Patterns_Hexmap.R) - built mostly with tmap
 ## Acknowledgements
 
 * Thanks to SafeGraph for provision of their data through their COVID-19 Data Consortium. 
-* Thanks also to Robin Lovelace and Jakub Nowosad, their book "Geocomputation in R" has proven invaluable for everything 'spatial' in R
+* Thanks also to Robin Lovelace and Jakub Nowosad, their book "Geocomputation in R" has proven invaluable for everything 'spatial' in R. Available [HERE](https://geocompr.robinlovelace.net/index.html)
