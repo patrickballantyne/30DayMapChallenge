@@ -10,7 +10,7 @@ Code for the map can be found [HERE](Patterns_Hexmap.R) - built mostly with tmap
 
 
    <p align="center">
-  <img width="600" height="850" src="retailpatterns_hexmap.gif">
+  <img width="350" height="500" src="retailpatterns_hexmap.gif">
 </p>
 
 ## Acknowledgements
