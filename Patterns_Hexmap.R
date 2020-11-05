@@ -37,7 +37,7 @@ pts_h3 <- pts_h3 %>%
   dplyr::summarise("24/02" = sum(visits1), "02/03" = sum(visits2),
                    "09/03" = sum(visits3), "16/03" = sum(visits4),
                    "23/03" = sum(visits5), "30/03" = sum(visits6),
-                   "06/04" = sum(visits7), "13/04" = sum(visits7))
+                   "06/04" = sum(visits7), "13/04" = sum(visits8))
 
 
 
