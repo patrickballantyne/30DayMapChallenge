@@ -1,8 +1,8 @@
 # 30DayMapChallenge
 
 This repo contains my efforts at the annual #30DayMapChallenge:
-- **2021**: 3D visualisation of Starbucks locations (**3D**)
-- **2020**: COVID-19 retail patterns (**Hexagons**)
+- **2021**: **3D** - Visualisation of Starbucks locations in Florida.
+- **2020**: **Hexagons** - COVID-19 retail patterns in Chicago.
 
 
 ## 2021
