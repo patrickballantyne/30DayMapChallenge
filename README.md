@@ -7,6 +7,9 @@ This repo contains my efforts at the annual #30DayMapChallenge:
 
 ## 2021
 
+Using the SafeGraph core places dataset, I mapped the locations of all Starbucks coffee shops in Florida state, aggregated to H3. The locations were extracted and joined to a hexagonal grid of Florida, created using the ['h3jsr R packag'](https://github.com/obrl-soil/h3jsr), before being mapped with ggplot and converted to 3D using the ['rayshader R package'](https://www.rayshader.com).
+
+Code used to produce the map can be found ['here']() - built mostly with ggplot, sf and rayshader. 
 
 
 
@@ -21,6 +24,3 @@ Code for the map can be found [here](Patterns_Hexmap.R) - built mostly with tmap
   <img width="350" height="500" src="retailpatterns_hexmap.gif">
 </p>
 
-Acknowledgements
-* Thanks to SafeGraph for provision of their data through their COVID-19 Data Consortium. 
-* Thanks also to Robin Lovelace/Jakub Nowosad and Lex Comber/Chris Brunsdon, their respective books ["Geocomputation in R"](https://geocompr.robinlovelace.net/index.html) and ["An introduction to R for Spatial Analysis and Mapping"](https://bookdown.org/lexcomber/brunsdoncomber2e) have proven invaluable for my 'spatial' workflow.
