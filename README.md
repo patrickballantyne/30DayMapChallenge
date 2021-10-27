@@ -1,4 +1,8 @@
-#30DayMapChallenge
+# 30DayMapChallenge
+
+This repo contains my efforts at the annual #30DayMapChallenge:
+- 2021: 3D visualisation of Starbucks locations
+- 2020: COVID-19 retail patterns
 
 
 ## 2021
