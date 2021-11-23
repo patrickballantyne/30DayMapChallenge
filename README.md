@@ -22,7 +22,7 @@ Code used to produce the map can be found [here](https://github.com/patrickballa
 As an ode to the legendary song by The Jam, I mapped the occurences of towns called Malice at the Local Authority District level for Great Britain, using QGIS. 
 
    <p align="center">
-  <img width="350" height="500" src="2021-NULL.png">
+  <img width="350" height="500" src="2021-NULL .png">
 </p>
 
 ## 2020
