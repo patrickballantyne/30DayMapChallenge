@@ -2,6 +2,7 @@
 
 This repo contains my efforts at the annual #30DayMapChallenge:
 - **2021**: **3D** - Visualisation of Starbucks locations in Florida.
+- **2021**: **NULL** - Towns called Malice in your Local Authority District.
 - **2020**: **Hexagons** - COVID-19 retail patterns in Chicago.
 
 
