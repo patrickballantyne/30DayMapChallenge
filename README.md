@@ -5,7 +5,7 @@ This repo contains my efforts at the annual #30DayMapChallenge:
 - **2020**: **Hexagons** - COVID-19 retail patterns in Chicago.
 
 
-## 2021
+## 2021 - 3D
 
 Using the SafeGraph core places dataset, I mapped the locations of all Starbucks coffee shops in Florida state, aggregated to H3. The locations were extracted and joined to a hexagonal grid of Florida, created using the ['h3jsr' R package](https://github.com/obrl-soil/h3jsr), before being mapped with ggplot and converted to 3D using the ['rayshader' R package](https://www.rayshader.com).
 
@@ -17,7 +17,13 @@ Code used to produce the map can be found [here](https://github.com/patrickballa
 </p>
 
 
+## 2021 - NULL
 
+As an ode to the legendary song by The Jam, I mapped the occurences of towns called Malice at the Local Authority District level for Great Britain, using QGIS. 
+
+   <p align="center">
+  <img width="350" height="500" src="2021-NULL.png">
+</p>
 
 ## 2020
 
